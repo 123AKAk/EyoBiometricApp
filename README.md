@@ -1,5 +1,7 @@
 # Full Biometric FInger Print and Face Verification
 
+Built with C# Windows Form
+
 Dependencies and Packages used in this project
 
 DPFPCtlXWrapperNET, 
