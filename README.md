@@ -1,4 +1,4 @@
-# Full Biometric FInger Print and Face Verification
+# Full Biometric: Finger Print and Face Verification
 
 Built with C# Windows Form
 
