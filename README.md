@@ -2,7 +2,7 @@
 
 Built with C# Windows Form
 
-Dependencies and Packages used in this project
+**Dependencies** and **Packages** used in this project, make sure all dependencies are in place before running the source code
 
 DPFPCtlXWrapperNET, 
 DPFPDevNET, 
@@ -22,12 +22,12 @@ FR.Ratha1995,
 ImageProcessingTools, 
 MySql.Data, 
 MySql.Web, 
-Newtonsoft.Json (Packages), 
+Newtonsoft.Json (Package), 
 OpenCvSharp, 
 ROC 
 
-To add database install xammp, create a database called biometric and import the biometric sql file in the resourses folder.
+To add database install **xammp**, create a database called **biometric** and import the biometric sql file in the resourses folder.
 
-Install the digital persona client setup application found in the resources folder
+Install the **digital persona** client setup application found in the resources folder
 
-Device: PC camera and digital persona finger print hardware
+**Device**: PC camera and digital persona finger print hardware
