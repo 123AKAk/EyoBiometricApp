@@ -24,3 +24,8 @@ Newtonsoft.Json (Packages),
 OpenCvSharp, 
 ROC 
 
+To add database install xammp, create a database called biometric and import the biometric sql file in the resourses folder.
+
+Install the digital persona client setup application found in the resources folder
+
+Device: PC camera and digital persona finger print hardware
